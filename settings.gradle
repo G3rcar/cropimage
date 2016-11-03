@@ -1,2 +1,1 @@
-include ':simple-crop-image-example', ':simple-crop-image-lib'
-
+include ':app', ':cropimage'

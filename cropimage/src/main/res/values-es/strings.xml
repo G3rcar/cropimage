@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cancel">Cancelar</string>
+    <string name="save">Guardar</string>
+    <string name="saving_image">Guardando imagen</string>
+    <string name="preparing_card">Preparando medio de almacenamiento</string>
+    <string name="no_storage_card">No hay medio de almacenamiento</string>
+    <string name="not_enough_space">No hay suficiente espacio</string>
+    <string name="app_name">CropImageLibrary</string>
+</resources>
